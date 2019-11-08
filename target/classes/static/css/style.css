@@ -1,0 +1,8 @@
+.banner-header {
+    background: url(../images/el-nido.jpg) center;
+    background-size: cover;
+}
+
+.relative {
+	position: relative;
+}
